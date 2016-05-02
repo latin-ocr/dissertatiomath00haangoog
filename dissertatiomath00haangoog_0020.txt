@@ -1,0 +1,52 @@
+...4-
+
+‘THEOREMA lv. Axis Lemniscatae et Hyperbolae aequilaterae communis in duobus Hyper-
+
+bolae verticibus, et focis Hyperbolae ae Lemniscatae, in eadem quodad centrum
+
+regione sitis, harmonice secatur.
+
+Est enim in Figura 1,0A=0B==a‚ 0F=OF‘=0,' 0E=0·E‘=E=2e
+BF=a÷e, BEz-a—l-2e AF=a—-e, AE=2e—a
+unde
+BF><AE = AF><BE vel (a†e) (ae-a) --- (rt—e) (a—l-2e)
+identica fit,Q.E.1.
+
+5. Transeamus ad Lemniscatae Bernouillanae aequationem
+(τ’ ÷y²)² = a²(·‘12²·-y²) l A
+= 20²(oe2—92) i( )
+ad duos axes rectangulares pertinentem, perscrutandam.
+
+Si eam solvamus, valores ω et y invenimus
+
+ae=ssVQ=ssV{e²—y²sse‡s(e²—4y²)} ..... (1)
+
+Ξὲμῑ-τ-πὲ-ε-ψ--ὶ = ὲη-θι-ω, ...flamm . . (2,
+
+ubi in valore y sub signo radicis signorum duplicium positivum tantum adhibuimu8‚ ne y
+
+imaginarium evaderet.
+Ex potestatibus secundis tantum variabilium ω et y in aequatione (A) existentibuS, con-
+
+cludimus Lemniscatam Bernouillanam versus utrumque coordinatarum axin symmetricam esse.
+6. Ex aequatione (1) elucet cuique valoti y quatuor valores ω respondere, quorum duo
+signo tantum a duobus caeteris differunt, nisi sit
+By²=a² velae=-}aV2={-e .............. (5)
+quum duo tantum valeres ω exstant, iique siguo 'contrario praediti, et y maximum valorem
+accipit.
+Ex aequatione (2) contra vidimus pro quoque valore x duo tantum et semper valeres y
+existere.
+a² τέ’- a²
+2
+axem abscissarum secat bis in centro nec non in duobus punctis a centro quantitate ss a distan-
+
+· Pro y==o ex (1) invenitur x===ss1l igitur oe=0 vel ==ka, id est curva
+
+ 
+
+tibus, quae vertices nuncupamuS.
+Porro ex (1) et (2) elucet, nec ,τ’ nec y umquam infinitum fieri posse.
+Pro oe=0 ex (2) sequitur με .-.Ι; 0 , id est, curva axem ordinatarum in centro bis transit,
+
+quod jam invenimus.
+

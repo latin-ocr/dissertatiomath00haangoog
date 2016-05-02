@@ -1,0 +1,56 @@
+Ἡρη--
+
+dum aequatio Lemniacatae pro iisdem coordinatis polaribus est
+
+r² = α2 Cos 2 φ .................... (Β)
+
+Inde habemus
+
+THEOREMA LXXII· Hyper-belae aequilaterae et Lemniscatae Bernouillanae correspondentis
+radiorum vectorum e centro divergentium eundemque angulum cum axi efficien—
+tium, rectangulus constans erit, et quidem quadrato semi-axi superconstructo
+
+aequalis.
+
+a²
+Cos 2 φ
+
+Nam estR² .r² Ξ
+
+ 
+
+. a² Cos2q> --= a* ‚ unde Rr=a² . ........ (165)
+
+Tfflifflfflffl [ΧΧΙΙΙ. Radiorum vectorum Hyperbolae et Lemniscatae‚ qui ab utraque axis
+parte cum eo angulos aequales includunt, extremitates si jungaS, haecce linea
+
+Hyper-bolam tanget, et in Lemniscatae radium vectorem perpendicularis erit.
+
+Est enim ex form. (B) et (R)
+
+τ’ -- a² Cos2q> == 12² Cos²2qa ,
+unde
+
+r == R Cos Ξφ . . ....................... (166)
+
+unde ex Figura 1 patet P Q in Ο Ρ perpendicularem esse, ob angulum P Ο Ω = 2 φτ exinde
+ex Theoremate I sequitur P Q etiam Hyperbolam tangere, quod in Ω locum habeat ne-
+cesse est.
+
+ΤΗΕθΒΕΠᾹ LXXIV. Cuj usvis Lemniscatae puncti normalis polaris in systemate (B) Hyper-
+
+bolae aequilaterae puncti correspondentis radio vectori aequalis est.
+
+'Est enim (cf. form. (24))
+
+q⁹s=‘.².²²=1'21.
+r
+
+104. Quoniam ex (R) sequitur
+
+Q=Rran92m‚ ................... (167)
+
+liunt pro Hyperbola aequilatbeiz
+
+ 
+

@@ -1,0 +1,45 @@
+ΕΕΝ AANflANesEL ΤοΤ DE TAFEJLS vAN ONBEPAALDE mTEeRALmN. 127
+
+HOOFDSTUK III.
+
+ONDERZOEK VAN INTEGRALEN‚ DIE BEHALVE GONIOMETRISGHE FUNG'JJIEN,
+NOG DE ELLIPTISOHE INTEGRAAL DER TWEEDE SOORT, E, BEVATTEN.
+
+1. In het eerste Hoofdstuk zijn evenzeer de noodige bouwstoffen bijeenver-
+gaderd νοοῖ de behandeling der herleidingsformule (D), aldaar afgeleid. Lange
+denzelfden weg als in den aanvang van het tweede Hoofdst-uk werd betreden,
+onder dezelfde opmerkingen, en met dezelfde voorzorgemaatregelen, leidt men
+hier een overeenkomstig theorema af. Men vindt toeh
+
+ 
+
+ 
+
+ 
+
+ 
+
+da·
+
+{H moa->scia 1s1—k2sen2y]= ΜΨ) ἰο m .- lesu-„Q 4- w). νι-μεεηεω,
+0
+
+datis
+{mm-31: Εῇφο) ÷ φ <xxm
+
+waaruit volgt, wanneer men deze naar x integreert‚ tussehen de grenzen Oen cc,
+
+w(oe)·E=sum-Aw-i-sssfpwwdoe,
+
+die wed erom oplevert “
+
+[ΕᾱωὲἕεφωΞφ(ω).Ε-]φ(ω).Δαω ....................... (ο)
+
+In de voorlaatste vergelijking had het eerste lid eigenlijk den vorm φ (ω).Εο]ἶ·
+
+en er is derhalve stilzwijgend aangenomen‚ dat genoemd produkt voor de waarde
+x = Ο verdwijnt. Dit nu is wel het geval met den faetor E, maar alsdan
+mag natuurlijk de faetor φ (Ο) niet oneindig groot worden, opdat het produkt
+Ο . φ kO) niet onbepaald of niet oneindig groot worde3 en deze voorwaarde heeft
+wederom invloed moeten uitoefenen op de keuze der integralen (δι) tot (335).
+

@@ -1,0 +1,40 @@
+..92-
+
+Sit nempe aequatio Tori, cujus meridianus est circulus, generalis
+
+{R ss ww -ι- 2²)}² ÷y² =r² ............... (195)
+
+ubi est axis coordinatorum y axis rotationiS, R distantia circuli centri ad axin illum, et r radius
+circuli rotationis, —- Invenitur hujus superficiei eum plano, plano coordinatarum ω et y'parallelo‚
+intersectionis aequatio, ponendo in aequatione (195) z= α , unde eruimus
+
+(ω2 ÷y222 ÷2(a² -r2 411²) μ’ 4- π’(οιτ--ν2 -R²)a:² -ι- (12² ÷r² -a2)2 -4112 r²==0.
+
+Si ponamus planum illud secans etiam Torum tangere, est α =—. R -ν ,
+et haec aequatio fit ⁹
+
+(oewfvw ÷ 4⁸(12—-rm2 —4Rr222 -ι- <11²÷r2›² -2022 ÷r²> (ιι-ν»
+÷ (R-r)⁴— 411² ν’ ==0,
+
+ubi functio constans 0 aequalis evadit. —- Ut autem fiat aequatio Lemniscatae Bernouillanae‚
+in promptu est necessaria R inter et r relatio
+
+4Rr=4R(R--r), vel R=2r,
+unde tuno aequatio
+(ω’ ÷v²)² = εν* (ωε-η’)
+cum aequatione (A) coincidit.
+
+Quarnobrem torus, conditioni R=2r satisfacienti, ab J. A. Senum, in Diario Journal de
+Llouvmn, Anni 1845, Tomo VIII, pag. 495, vocatur lemniscatam.
+
+Hinc
+
+ΤΗΕΟΒΕΠΑ XCV· Si torum Lenmiscatioum, ubi igitur circuli radium inter et circuli centri
+distantiam ad axin rotationis ratio est ᾖ, seoemus plano axi parallelo et torum
+simul tangenti, intersectio est Lemniscata Bernouillana, cujus excentrioitas circuli
+
+diametro, id est 2 r, aequalis est.
+
+117. Postremo pauois enunciemus, quibus casubus sese in Mechanicis obserat Lemniscata
+Bernouillana.
+

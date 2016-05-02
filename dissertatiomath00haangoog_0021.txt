@@ -1,0 +1,49 @@
+Apparet igitur Lemniscatam curvam esse tertii sive lineam quarti ordinis, ex duobus
+'lemniscis continuis, in centro confluentibus, consistentem, versus utrumque axin symmetricam,
+hisce axibus igitur in quatuor partes aequales dividi, quas inde quadrantes vocabimus.
+
+7. Pro polarium coordinatarum r et φ origine curvae centrum, et axin curvae pro axi
+polari assumamus, ita ut sit
+
+m=rGosq> y==rSinep . . ................ (s)
+Hisce⁸ valoribus in (Α) ειὼεῐίῑυῑίε, habemus
+r⁴ =a² τ’ Cos2<p
+vel
+r²=0 et r²=a² Cos2q³
+
+(Β)
+
+Prior aequatio docet, ambos curvae ramos in centro coire, ut jam vidimus, et altera aequatio
+est requisita.
+
+= 20² Gos2q·
+
+Docet ea, pro φ > 450 ‚ τ’ negativum et igitur r imaginarium fore. Ergo curvae uterque
+lemniscus inscriptus est lineis duabus, quae cum axi angulum ss 45⁰ faciunt, quasque Tanqemes
+centrales vocabimus, cujus nominis ratio n⁰ 16 dabitur.
+
+Idem quoque, sed minus eleganter, ex aequatione (A) deduci potest3 μ’ enim semper
+minus quam ω* esse debet, ne (ω’ -Ι- y' )² negativum fiat: unde sequitur γεω , id est tangen-
+tem anguli polaris semper unitati minorem, angulumque ipsum minorem quam 45⁰ esset porro si
+(A) ponamus sub forma
+
+“ κ’(ιψξζν-ταηι-Ξμ
+
+deducimus pro cc =0 esse Ῑ-Ξέ =0, -Ξ -- ss 1 , id est angulus tangentem inter et axin
+pro centro est ss 45². ’
+
+Evidens est, duarum illarum tangentium centralium alteram in alteram perpendicularem
+esse. caeteroquin ct ex hac aequatione (B) curvae symmetria clucet.
+
+8. Quando, axi polari eodem manente, originem in verticum unum ponamus, et tunc
+coordinatus polares τι et ςι)ι vocemus, erit
+
+’ a—.22=r1 COSQ101y=Y1S⁸⁸²UP1 ..... ι· ...... (9)
+Quorum valorum substitutione, ex (A) eruimus
+
+τι* -- 4αν,·’· (ἕως)ι -Ι- (5 -Ι- 2 Cos² φ,) 0² r12--2a2 r, Cosa)² ==0
+vel
+r¹ == Ο et ηδ —-42ar2² Cosa>¹ -1- (5 -Ι- 2 00³² (pl) α’* ²'1 —2122 Cosqo¹ =0 (C)
+Prima aequatio necessario exinde sequitur, quod unus curvae ramorum per originem coordina-
+tarum polarium transit: altera est aequatio generalis.
+

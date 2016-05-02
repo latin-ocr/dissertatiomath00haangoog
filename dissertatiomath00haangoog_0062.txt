@@ -1,0 +1,49 @@
+...49-
+
+quae ultima, ut decet, eadem est relatio, quae inter amplitudines complementarium functionum
+ellipticarum primae speciei obtinet. (cf. clar. Vennutsr, op'. laud., pag. 40.).
+Quae si colliga’mus, prodit elegans
+
+THEOREUA XLVII· Lemniscatne duo arcus vicissim complementares erunt, si obtineant
+
+relationes inter
+
+ 
+
+radios vectores, ,ν’ === 3:11: α2 ...................... (89)
+angulos polares, Cos φ. Cos , φ = V} ................... (90)
+angulos auxiliares, Tunq ψ . Tanq ιψ == 1> 2 ................ (91)
+
+Quia enim, (vid. F ig. 12.) ex formulis citatis est
+
+Arc. direct. 01 = Arc. invers. A 2,
+etit quoque .
+Arc. direct. 02 -π Arc. iuver-s. A 1,
+
+ita ut elementa correspondentia permutari queant necesse sit, quod ex form. (89), (90) 62· (91)
+ita fieri patet.
+
+71. Exposita facillime ducunt ad solutionem
+
+PRGBLEHATIS Vl· Arcus cujusvis dati arcus complementaris inveniatur.
+
+SOLUTIO 1. Pei-pendiculum in axin e vertice erectum erit linea tangentium ad circulum,
+QQ-XXXS radius semi—axi a aequalis est. Radium vectorem arcus dati igitur inde a vertice in hoc
+
+QffiYpendiculo abscindaS‚ cujus extremitatem cum centro si jungas, Lemniscatam secabis in puncto
+quaesito. (cf. form. (88), etvid. Fig. 12.).
+
+SOLUTIO 2. Sequitur ex form. (90) σθω φ =e Sec ι φ .
+
+Ε dati puncti radii vectoris cum circulo, in totum axin constructo, intersectione perpendi-
+culum in axin demittam, cum parte axeoS, a centro usque ad hujus perpendiculi pedem,
+a Cos φ aequali, e centro circuli arcum ducas, cujus intersectione cum perpendiculo, e foco in
+urin erecto, cum centro juncta, radium vectorem quaesitum habebis. (vid. Fig. 12).
+
+72. Caeteroquin est
+
+ῙΗΕθΒΕΗᾹ ΧΙΝΙΙΙ. Arcuum Lemniscatae complementarium radios vectores si prolongemus ·
+usque ad perpendiculum, e vertice in axin erectum, partes ita in hoc perpendi-
+
+culo inde a vertice praecisae, alteri radio vectori aequales erunt.
+

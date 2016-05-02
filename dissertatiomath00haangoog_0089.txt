@@ -1,0 +1,52 @@
+...γο-
+
+in qua ξ, et ῃ, semper eodem signo praedita esse debent. Curva postquam per centrum transit,
+quo in duas partes aequales dividitur, Lcmniscatae. tangentes centrales asymptotos habet.
+
+102. Transeamus ad
+
+THEOREMA LXX· Cujusvis Lcmniscatae puncti radium vectorem inter et radii osculationis
+
+in eum radium vectorem projectionem constans est ratio,
+
+ΤΠΕΟΒΕΜᾹ LXXI· Projectionis centri osculationis in radium vectorem Lcmniscatae locus
+
+geometricus est altera Lcmniscata, cujus semi-axis, illius axis duabus trientibus
+
+aequali3‚ cum ea incidit.
+
+. Quae sequuntur ex iis, quae J. A. Snnnnr in Diario Journal d‘e Liouviam, Anni 1842,
+Tomo VII, pag. 114, generaliter exposuit de curvis, quarum perimeter integralibus Eulerianis
+secundae speciei exprimitur, quarumque aequatio polaris est
+
+ 
+
+-- 2 Cos mt
+Quia est
+φΞζ-ἶ· , (46) et v=5q›‚ (18)
+
+est projectio radii osculationis in radium vectorem, ρ’
+
+p¹===9Cos (v—w)=pC022‹p=fl²-. 2²-
+
+0 3 a,=.÷r,...........(164)
+
+ergo ratio illa' constans in Theoremate Lxx commemorata est ἦ.
+Quod ad alterum theorema, pro radio vectore hujus loci geometrici ex form. (164) habemus
+
+r—p‘=r—{r-=3²3r,
+
+ergo ex Theoremate V hic locus etiam erit Lcmniscata, cujus semi-axis ᾖ a aequalis est.
+Horum Theorematum intimus est connexus cum Problematis 111 Solutione 1.
+
+103. Ex modo, in Theoremate Ι demonstrato, quo Hyperbola aequilatera Lcmniscatam
+Bernouillanam gignit, plurima sequuntur.
+Aequatio enim
+
+.v²—y²=a² ; . ................... (α)
+
+quando, ut in systemate (B), centrum et axin rationalem pro polo et axi coordinatarum pola—
+rium R et φ sumamus, evadit
+
+R² Gos2q> = α’ ; .................. (Β)
+

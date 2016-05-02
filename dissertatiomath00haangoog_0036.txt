@@ -1,0 +1,43 @@
+ 
+
+ 
+
+=-3‘”1²‘'‘²J¹²,-’L1.(25...22)
+53112-2'12 '‘Ti- ¹ '
+
+ 
+
+eadem ac aequatio (15).
+
+54. SOLUTIO 7. Quae sequitur ex Lemniscatae generationis modo, cujus in Theore·
+mate XCII mentio fit, et qui occasionem dat, (cf. Gannssnr's ArchiV, Tom. vm, pag. 50) in
+Lemniscatam applicandi methodum, a celeberrimo geometrico Anu Tamsou Anno] 1844 pro-
+positam et a clar. STRGMANN in Gnunssn‘r's ArchiV, Tomo VII, pag. 48, collustratam. Inde
+
+sequitur
+
+THEOREM XV· E Lemniscatae focis cum radio {- aaequali duos circulos ducas, tertiumque e
+puncto dato cum radio, excentricitati aequali, cujus cum duobus prioribus inter-
+sectiones illas, R„ R„ quae cum puncto dato in recta sitae sunt, cum foco, ad
+quem pertinent, jungas, harum linearum intersectionem R, cum puncto dato col-
+
+liges} tunc normalem construxeris. (vid. Fig. 7.).
+
+325. Ex hujus problematis s o l utionibus tertia et quinta haecce profluunt Theoremata
+
+THEOREMA XVI· Punctum Lemniscatae quodvis si jungas cum ‘duobus fociS, et in illos
+radios vectores e focis perpendicula erigas, tangens, inde a puncto dato usque ad
+utramque intersectionem cum hisce perpendiculis, eandem habet longitudinem, et
+quidem quarta proportionalis est ad ordinatam, radium vectorem e centro diver-
+
+gentem et excentricitatem. (cf. form. (39)). ,
+
+ΤΗΕθΒΕΜ XVII· Punctum, uhi duo illa perpendicula concurrunt, abscissam habet, ab·
+scissae puncti dati aequalem, negativo vero signo praeditam: ordinata contra quarta
+proportionalis est ad puncti dati ordinatam et partes, in quas focorum distantia
+ab ordinatae ulterius pede dividitur. (cf. form. (40)).
+
+Tfflfflssffl lell. Circulus, qui per punctum datum duosque focos transit, in altera
+
+extremitate diametri, e puncto dato ducti, horum perpendiculorum intersectionem
+

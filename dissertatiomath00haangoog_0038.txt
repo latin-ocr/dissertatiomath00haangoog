@@ -1,0 +1,44 @@
+„25-
+
+57 . Praeter tangentem modo descriptam, aliae quoque adsunt. Primo quidem si radium.
+vectorem prolongemus usque ubi quadrantem oppositum secet, et per intersectionem quoque
+lineae datae parallelam ducamus, haecce pro eo curvae puncto tangens etiam erit; quod facile
+concluditur ex curvae symmetria, nec uon ex aequatione (8) eadem manente, si x, et y, simul
+negativa sumamus· J
+
+Porro nihil impedit, quominus pro angulo trisecando prioris. (quam 5 φ vocabimus) supple-
+mentum sumamus, ideo 180ο - 5 φ , unde radius vector puncti quaesiti cum altera axis re-
+gione angulum 60ο - φ faciet. Exinde perspicimus pro
+
+φ <150 et sq> <450
+
+huncce radium vectorem cum axe angulum 45⁶ majorem facere, ergo curvam non secare, quo
+
+casu igitur duae tantum tangentes adsunt, Pro φ majore quam 115⁰, quatuor habemus tangentes
+
+parallelaS, nam radium vectorem postremum quoque prolongando quartum punctum acquirimus,
+Quae exposita conjungere possumus in
+
+THEOREMTE XXI· Quando tangens cujusvis Lemniscatae puncti tangentium neutralium eas
+partes secat, quae ad eundem lemniscum pertinent, una praeterea tangens adest
+ei parallelass
+
+Si contra ejus cum tangentibus centralibus inter-sectiones in eadem quodad
+axin regione sitae sint, tres ei parallelae tangentes exstant in punctiS‚ quorum
+bina in oppositis ej usdem radii vectoris extremitatibus sita sunt, angulo inter
+
+duos radios vectores 60ο aequivalente. (vid. Fig. 8.).
+
+58. Exinde patet difficultates problematiS, tangentem alicui lineae datae parallelam du-
+cendi, prorsus evanescere, si linea ipsa jam Lemniscatam tetigerit. Quo casu enim radium vec·
+torem puncti contactus usque ad quadrantem oppositum prolongare, nec non per centrum lineam
+ducere debemuS, quae cum illo radio vectore angulum 600 aequalem, axem includentem, faciat,
+quae, utrum radius vector verus an imaginarius sit, ex dictis patebit.
+
+E nexu invento angulorum, duobus illis radiis vectoribus, quos v·¹ , r, vocabimus, cum axi
+inclusorum, quod nempe eorum summa 60⁹ aequalis sit, profluit quoque inter radios vectores
+ipsos simplex relatio.
+
+Habemus enim
+r22=a²cosaq22 , r22=a²oos2q³2 , w2÷m2=60⁰;
+

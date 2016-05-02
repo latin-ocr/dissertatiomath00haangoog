@@ -1,0 +1,60 @@
+90 EEN AANHANGSEL ΤοΤ DE TAFELS VAN ONBEPAALDE INTEGRALEN.
+
+Hier zijn bij de vergelijking (XXVII) de integralen (85) of (98) eindintegra·
+len, al naarmate de exponent Ρ oneven of even is. Bij de vergelijking (XXVIII)
+daarentegen is voor Ρ oneven de ei ndintegmal reeds gevonden in de integraal
+(87); maar zoodra Ρ even werdt, moet men de overeenkomstige eindintegraal
+nog zoeken. Daartoe onderstelle men eerst n = 4, en Ρ = 2 in de herleidings·
+formule (HQ, dan is
+
+[sinat. 003250. ΡΞ- “- 2ί1-Ᾰ2) ἳ-σωίἴΡ-Ι- 002322—-—- ssi.nx σοεέτ. ΙΓ-Δ-;
+
+ 
+
+ 
+
+ 
+
+om hierin de laatste integraal te bepalen‚ stelle men wederom Ρ.-.-. ...2 in de ver—
+gelijking (XXVIl)‚ zoo werdt
+
+ 
+
+ 
+
+ 
+
+scin-v. eosssx. ΓΞφ-Ξ-Ῑ- 3—00322. F÷ ⁶⁰⁸³‘2'3—(1—ffiffdnx’F‘Z =
+“Z-l} -(1 -k2),1c—oosoe. F†- knBy nin (kainoe); .............. (99)
+waardoor ten slotte
+2 dxc 1 cosa: aina:
+seinte. ..cos-‘c 'FB-4:27} pc4-Z-2-F—-K .................. (100)
+
+ 
+
+N og stelle men in de herleidingsformule (XXVII) Ρ -- 3, dan komt er
+
+ 
+
+seinz. coe-⁰³:15. ΡΞξ-Ξ-ὲςῐ -οοεῖακ Γ-Ι- lemgoedg—Ql— Ρ) sirm. cosm. Ρί-ἰΔ-Ξ =-..
+:31—A2{—⁶⁰⁸⁹'‘⁶ νὴ -13[E- (1- ----k2)F]—2(1 k2)c}=
+
+=-2-—lk4{-A2.F÷E-2(1-k2)k2a} ............. (101)
+
+En nu kan men ook in de algemeene herleidingsvergelijking (114) n = 4 en
+Ρ -- 3 stellen, waardoor men verkrijgt
+
+ 
+
+- ’ pec..- ‘33³ .-
+smnxaeosssxffl A4- {i-ITW {—-- fimf-so 345———2J0inoe- cosssx. Ι ΔΞ -.
+= 2—1-k4 - 1X2k²F -ι-Ε-μΜΣςΜ-ι-εμιε ...... (102)
+
+ 
+
+ 
+
+na invoering der vorige integraal.
+
+..k-—- μμ -ῴῲῲῌῌῲῲ-, ---- ,--
+

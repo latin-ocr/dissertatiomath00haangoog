@@ -1,0 +1,55 @@
+-17-.
+
+ΤΗΕθΒΕΙᾹ Vll· AnguluS, quem normalis cujusvis Lemniscatae puncti cum axi efficit,
+
+triplo major est ¹quarn ille, quem radius vector ejusdem puncti cum axi includit.
+(cf. form. (18)).
+
+ΤΠΕθΒΕΗΑ Vm· Angulus cujusvis puncti normalem inter et radium vectorem duplo
+
+major est quam ille, quem axis cum eodem radio vectore facit. (cf. Theorema
+v11 et form. (20)).
+
+’ΤΠΕθΒΕΜ IX· Semi-axis Lemniscatae media proportionalis est tangentem polarem inter
+
+et subnormalem cujuscunque curvae puncti, quando centrum et axis curvae
+
+sunt polus et axis coordinatarum polarium. (cf. form. (22) et (23)).
+
+THEORBM Χ. Pro iisdem coordinatis, Lemniscatae semi-axis media proportionalis est ra·
+
+dium vectorem inter et normalem cujusvis curvae puncti. (cf. form. (24)).·
+
+Tffllffllffl Xl· Pars semi-axis, inde a centro usque ad ejus intersectionem cum cujusvis
+
+Sin2 φ1
+
+Lemniacatae puncti normali, est P = r·¹ Sin 3 φ
+1
+
+(cf. Theorem. VII-et v111).'
+
+ 
+
+28. Exposita quoque ducunt ad solutionem·
+
+PROBLEMTIS l· Ad aliquod Lemniscatae punctum tangens nec non normalis ducatur.
+
+SOLUTIO 1. Ex Theoremate VII devolvitur et *a Vsscn‘rmnn op. laud. pag. 21, propo·
+nitur. Per punctum datum enim si rectam ducamuS, quae cum axi faciat angulum triplicem
+
+anguli, radium vectorem hujus puncti inter et axin contenti, linea illa normalis erit, lineaque
+ei in puncto dato perpendicularis tangens. (vid. Fig. 4.).
+
+29. SOLUTIO Ξ. Quae ex Theoremate X deducitur, sed mihi nullibi obvia erat. In radii
+vectoris prolongatione, inde a centro partem sumas semi-axi aequalem, et ex ejus fine ad axem
+rectam ducas rectae parallelum, e vertice ad punctum datum ductae3 recta ita in axi praecisa,
+e puncto dato circuli arcum ducas, qui perpendiculum e centro in radium vectorem erectum
+in duobus punctis secabit, quorum unum cum puncto dato conjungendum est, ut normalem
+habeas. (Quae selectio in figura minime erit difficilis.) (vid. Fig. 4.).
+
+50. SOLUTIO 5. Quam petimus ex methodo tangentes ducendi, quam celfirmxzn pro Gas-
+sinoidibuS, curvarum genere Lemniscatam quoque continente, proponit in Diario Journal von
+
+0
+

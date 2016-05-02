@@ -1,0 +1,51 @@
+...θοὴ
+
+Hyperbolam aequilateram cum illa, quae ad Lemniscatam pertinet, commu-icam, sed hujus
+socos vertices habentem, construas. Radium vectorem primitivae Hyperbolae quemcumque in tan-
+gentem centralem transducaS, e cujus extremitate alteri tangenti centrali ducas parallelam, iu
+qua Hyperbola auxiliari inde a tangenti centrali pars abscindetur, quae erit Lemniscatae radius
+rector correspondens radio vectori Hyperbolae primitivae.
+
+157. CONSTRUCTIO XVI. Ex Theoremate XC profluit.
+
+Si e vertice cum excentricate circulum ducaS, et ex centro curvae secantes ducas, in qua-
+rum quavis inde a centro partes samaa, chordis in circulo determinatis aequaleS, Lemniscatae
+punctum habebis,
+
+158. CONSTRUCTIO XVII. Quam doct. Etr-:nanum in Diario Gnuxmrr's Archiv,
+
+Tomo 111, pag. 400, proponit, (cf. Theorema XCII), et mechanicam nuncupat, quaeque deri—
+vatur e constructione generali pro illis curvis Lemniscatis ordinis superioris, quae in machina,
+ope aquae vaporis mota, puncto certo bilancis partim describuntur.
+
+E focis cum radio, semi—axi aequali, circulos duos describas et chordam, iis communem,
+cujus longitudo est 2 e, sic moveas, ut extremitates circulorum circonferentias non deserant, tunc
+hujus chordae medium Lemniscatam gignet. (vid. Fig. 7).
+
+159. CONSTRUCTIO XVIII. Quae generaliter a Vnum-mnu, in Dis s. laud„ pag. 17,
+
+pro Cassinoirlibus proponitur.
+Radios vectores e centro, duobusque focis ad idem Lcmniscatae punctum divergentes per
+
+r , ρ , et σ
+ἀεῃοῐοῐηιιε, angulumque polarem radium vectorem r inter et axin per ᾳ, erunt ex Figura 1,
+ρ’ = 0² -Ι- r² — 202· Οοεφ ,
+σῖ = ε’ -1- r² -1- {ter Cos-«p ,
+
+unde
+ρ’ ÷ ⁰² = 2(0²÷r²)
+sed
+2po’ = ..0² , (cf. T-heorema 11)
+ergo .
+(ιο-ΗΥ == 2ἅθ’-Μ’) =. ’ἔφ’-Μ’), (ιμ’-ἢ)2 = 2r² ἱ
+unde
+
+ 
+
+Z} =ls⁰² ’ζμ ss nsi, ................ (194)
+
+ex qua formula pro quocunque r valores ρ vel σ comtruidicet. Hanc rero constructionem
+minus expeditam esse conspicuum est.
+
+15*
+

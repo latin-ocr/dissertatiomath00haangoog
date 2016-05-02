@@ -1,0 +1,53 @@
+OVER EENIGE GEVALLEN BIJ ΒΕ Tussomss VAN ONsTAmGE mxcvii-N. 59
+
+soms gebeuren, dat zij tot eene ware uitkomst voerde ten gevolge van hij-
+zondere eigouschappen der integraal (x); maan· het waren juist deze, somtijds
+met anders verkregene overeenstemmende, uitdrukkingen, dio tot het aan-
+wenden der bovengemelde, niel: steek houdende, methodo verlejd hebben.
+
+Later heeft Mun: gedeeltelijk jn navolging van POISSON * in het Journal
+libr reine und anqewcmdle Mathemalik von Graue, Bd. 15. S. 355, tiber die
+Summation periodisclzer Reilzen Τ zich meer bepaaldelijk met deze soort van
+integr-alen bezig gehouden, maar is daarbij van niet geldige gronden nitge-
+gaan. llij beschouwde eene reeks
+
+y-·=---a¹ †a2.v --1-α3έυ2 ψ...-’1-ἀρ.τῑ’·-Ῑ
+Ἰ-αι ..tp 4⁰25⁶P†¹ ÷a³ 2¹²42-l- †“1› etQ-l
+4a2oe²p†a2ae2p†l -Ι-
+die uit perioden bestaat, elke van p [ermen , waarbij zich dezell'de coessicien-
+ten a„ α2 . . . α, telkens in dezelfde orde herhalen, zoodat
+
+ssl=(l†.vp÷.oe²v÷...)(a, ÷a2ae÷a³22 †·„÷ap ‘tp-1)
+is. wordt ‹z‘== 1, 200 stelt hij
+
+1-}-m:²÷x²v†...-== ¹
+
+].-xl¹3'' ....... ,⁸ ......
+
+ 
+
+(²)
+
+zoodat
+a, ·†· ειμι-μα3 :1³² 4- -ξ- αρωΡ-Ῐ
+y ἒ l ——oeP
+wordt: bij do onderstelling
+
+a, †a,-}—a3 ÷...-{—ap==0,
+waardoor de telier der vorige hreuk door 1—oe deelbaar werdt, verkrijgt hij
+voor ‘x a l:
+
+(p--1)a. ÷ ‹p-—2›a2 ÷ ‹p--3> α.. ÷---÷ sap-st 2a12-2÷ap-‚1-·
+P
+
+Deze uitkoms't echter geldt niet, daar (z) slechts voor x kleiner dan de
+eenheid geldig is en niet meet· voor x gelijk όόη, en het daarop gebouwde
+
+resultaat :
+
+⁴* Zie diens beschouwingek oven-‘de Sommalion des Se'ries de Quantile's pc'riodae'ques, voorkomende
+iu het Journal de l'Ecole Polylechnique, chhier 19. p. 404. N··. 45—56.
+
+† zie nog zijne verbandeling iiber die Summalion der ohne Ende sortlausenden har-moniscle·
+periodischen Reihen, in het Journal von Orelle, Bd. 23. S. 105 en Bd. 25. S. 160.
+

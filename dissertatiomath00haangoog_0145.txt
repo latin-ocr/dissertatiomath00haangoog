@@ -1,0 +1,59 @@
+ἴ ἐκ. «ἐκ.
+
+18 OVER EENIGE GEVALLEN ΒΗ ΒΕ ΤΗΕΟΙΠΕ VAE ONsTAmGE FUNCTl‘EN.
+
+Cos.{b·(k-1)n} gelijk ss 1 naarmate b even of oneven is, omdat dam-mede
+tevens buc—1) even of oneven is 3 was k daarentegen oneven zoo is b (lc—1)
+altijd even, en dus in dat geval Cos. {b(k-1)u} gelijk -ι- 1. nit te zamen-
+vattende komt men tot de drie volgende uitkomsteu:
+
+bn sin. {(2 k-1)oe}
+
+ 
+
+Ὲ(ω)ᾱ.ι- --. ΞΠ* (ο)-ι-2Ὲ(π)-ι-2 m ⁷1)÷....÷ 21? [μμ-ηπ) -ι-Ὲ(ῡπ)],
+
+ 
+
+sim
+²⁶⁹⁹ SZszszssvmae = ΞΠ (ιη-2 Ὲ(π)-ι»2 Ε(’2 π) -....-2Ε((2ι>.-1)π] ÷F(2zm)], ’(Lim’'‘= ω)
+(2 1>÷1>2r ursin 22· Nom)
+
+ 
+
+Sin· F(.2· ⁸2·.22)‹1.v=-[1?( (ιη-2Ὲ(π)-ι-2Ε(2π)-... -J-.2F(2bu)-F{(2b÷1)u}].
+
+Weet men daarentegen niet of k even, dan wel oneven zij, zoo wordt de
+uitkomst van vergelijking (XV) eene onbepaalde‚ tenzij altijd F { (2 124- 1) π] ··-- Ο
+is (voor 2124- 1 <b); men mpet dan nog onderscheiden of b even zij of niet
+wegens den laatsten term van (XV) namelijk Cos. {b(k—1)n}.F(b π). Is b
+toeh even, zoo wordt Cos, {b (lc—1) π] == 1 ; is b oneven, zoo wurdt die factor
+wel onbepaald (dat is :1:1), maar FU, π) verdwijnt alsdan. Daardoor is:
+
+ 
+
+Γ {21 1ἒξυῖᾴνε)ιιιυ---τ-[Ε’(ο...)-ι-2ῑ’(2π)4- u÷2F{(2⁶-2)“}÷F(2⁶“)])
+
+s(1vr2e›÷) οκ-ς-ξ-ῚΞᾸΞΕ(ω)ᾱα,,--,,,’,’[Ὲ(0)-ῃ-21ῑ”(2π)-Ι- ÷2F(2⁶⁷¹)]
+
+Sin ‚(Lim.k= οε)
+
+lsF{(2h÷1)u}-0,75=b;mandersis ...(xvl1)
+
+ 
+
+ 
+
+sem· {1:3² k: F(.v) d a: = onbepaald, als niet altijd F{(272÷1)n} == 0 {s,(2h†1<b)·l
+⁰ ι
+
+Eindelijk hlijst er nog het geval over, dat a·— ὸπ-ὶ-ο 1s(c<n);a1sdan kan
+men den grensasstand ο tot bn†0 gevoegeliJ'k in twee deelen verdeelen‚
+namelijk van ο tot bn en van ὁπ tot brt-bc, dat is:
+
+ 
+
+ 
+
+Stel in de laatste integraal dezer vergelijk'ing «τ’ = bn -Ι- y, dan' worden
+

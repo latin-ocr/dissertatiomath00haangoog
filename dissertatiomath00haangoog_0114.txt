@@ -1,0 +1,51 @@
+· ’'——s 'ol
+
+'rh eo rema LXXXVIII docet, Lemniscatam esse involucrum circulorumzqui ex Hyper-
+bolae aequilaterae medio radio vectore cum hoc dimidio radio vectore ducuntur.
+
+Ex Theoremate XCI patet, triangulus F ΡΩ, cujus vertex F est fixus, latera F Q et ΡΩ
+excentricitati et semi-axi sunt aequalia, quibus oppositi anguli per α et β denotentur, si tali modo
+varietur, ut, angulo latus PF inter et axin quemdam fixum OF per φ denotato, constans sit
+
+relatio
+
+Costp = θυεμ-ΞΒ) ,
+
+puncti P locum geometricum esse Lemniscatam, cujus 'axis est OF, et focus punctum illud
+
+fixum F. (vid. Fig. 6).
+
+142. Ponas m²†y²==v, Ι ³³²—st2203
+
+unde
+
+ 
+
+ 
+
+fit aequatio (Α)
+12² == α’ w 3 .................... (196)
+
+quae est aequatio Parabolae, cujus parameter valorem α2 habet numericum, et e cujus coordi-
+natarum v et w valor-ibus valores a: et y Lemniscatae construi possunt.
+
+Porro ponamus
+
+t=1s(v²-w²)=2a:y, ................ (197)
+unde
+Z} z ἐγω-14) ss ÷V(v—l); ............. (198)
+
+quae etiam ad, coordinatarum a: et y e valoribus v et t constructionem ducunt.
+
+Ex praecedentibus vidimus Lemniscatam oriri, si pro ordinata et abscissa Parabolae Apollonicae
+aequationes Circuli et Hyperbolae aequilaterae respective substituamus. (cf. clar. G. J. Vanum,
+in op. laud. Opmerkingen over zekere soort van kromme lijnen, etc. pag. 71).
+
+Porro sequitur, si pro quocunque Lemniscatae radio vectore r , Hyperbolam aequilateram
+construaS, cujus potentia sit r² : 2 e , vel semi-axis rationalis r² :a , hujus cum circulo con-
+centrico, radio r descripto, intersectiones quatuor puncta esse Lemniscatae. Quae generatio
+deduci potest et ex aequatione Lemniscatae in tangentibus centralibus my = (r² :2 e)² (E)
+et ex aequatione (H) oe² - 31² ε (r2 ια)2 .
+
+ο 0
+

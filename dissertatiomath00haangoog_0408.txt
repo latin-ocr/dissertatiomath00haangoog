@@ -1,0 +1,52 @@
+EEN AANHANGSEL '1⁸01' DE TAFELS VAN ONBEPAALDE INTEGRALEN. 83
+
+In het geval van onevene waarden van p vindt men voor de eindintegralen‚
+010 111011 p = 3 stelt‚ de integ-talen (79), (80) 011 (81). Indien daarentegen p
+evene waarden heeft, laten deze herleidingsformulen de integralen (76), (77) 011
+(78) niet als eindintegralen toe, omdat respectieve voor p = 2, = Ο, = — 2, de
+noemers van de tweede leden verdwijnen‚ en de vergelijkingen derhalve onbruik-
+baar worden. Men moet daarom traohten‚ die drie eindintegralen reohtstreeks
+
+te bepalen.
+
+ 
+
+ 
+
+ 
+
+ 
+
+[εἰηῖιε. cos-v. Γ-Δ- = -sfln- -A2)cos;c. F—-= -· Μὲίοεω F-- coeoe. F—
+eos-2·A — 1—- Ῐσῖεἰ 20,- ‹eo—⁸- aeF eosoe ‹1oe dx
+JW F-doe s 8², 2oe dzssinzoe FK—kssscosoe. F-E.
+
+Beide integralen worden dus tot de derde scosx. Ffllif herleid‚ die voor p= Ο
+
+111( (ΧΙΧ) 011(0(00(. Wel is waar kan men deze, door de methode van gedeel·
+telijk integreeren, nog verder transformeeren3 111001· men blijft tooh op eene eigene
+
+transcendente stuiten.
+
+setosa·- F‘thzz·E dAoeF' {4112 siano: ὲῘΙῗάωῖἒ. quin(ksinx)=
+:Z‘F.B93in(ks sinoe)— [B935n(kainae)‘3'-⁶'=0· ............... (82)
+
+011 hiel-mede wordt nu, met behulp trouwens van de integralen (7 6) 011 (77),
+
+ 
+
+ 
+
+ 
+
+sat 2oe cos-v 153:ss —O-l-{ig-aeF—kV-ll-I--p By coe Ῑ-Ιρἓζ-ωδω) ,. . . (83)
+[ΜΖ Δ. 3⁶²²-kw—4T33F‘fl‘mssoe‘ . ............... (84)
+
+Tot dusverre hadden wij sleohts met irrationeele integralen te doen, waarbij
+Δ-3, Δ·-ι , ΔΗ 111 (1011 (01101 voorkwamen. Zoodra men daarentegen evene
+maehten van de Δ immet-t, vervallen hier de positiove exponenten, omdat men
+dan 0110011 1110( geheele vermen te doen heeft, zoo als in de theoremata (Ι) (0(
+(XVI) werden behandeld. wat de positieve waarden van n en dus de negatieve
+
+,maohten in dat geval' betreft, nemen wij n = 2 en n = 4.
+

@@ -1,0 +1,50 @@
+THEOREMA XXVII· Area pro quovis Lemniscatae puncto, radium vectorem, e centro di·
+vergentem, inter et axem contenta, areae trianguli aequalis est, qui latera habet
+eundem radium vectorem, normalem polarem in systemate (Β), et lineam, e
+
+centro ad mediam eam normalem ductam. (vid. Fig. 2.).
+
+Hujus enim trianguli area dimidiae areae aequalis est trianguli, qui radium vectorem et
+subnormalem polarem pro basi et altitudine habet3 est ergo primi trianguli area
+
+ 
+
+}.{-.r. =1V(a⁴-r⁴)=q.
+
+Ex eadem formula (61) deducitur
+
+monum xxvm a vamum, ορ. cit. pag. 27.
+
+In semi-axin si construas semi-circulum3 datum radium vectorem usque ad
+
+circuli conferentiam prolonges, ac intersectionem cum vertice jungas; trianguli ita
+
+ἡ comparati area aequalis erit ᾳφ. (vid. rig. 10.).
+
+Nam trianguli altitudo aequalis est ᾖ α Sin 2 φ; ita, cum basis sit a, area fit
+
+}a.}aSin2‹p-—-=} α’δίηΞφ-τᾳφ.
+
+ΤΗΕΟΒΕΜᾹ XXIX· Ab L. J. Maenas in opere suo, Samm lun g v on Aufgabe n und
+Lehrsa'tzen a us der analytisch en Geometrie‚ Berl. 1835, pag. 517,
+propositum.
+
+Area, quemvis radium vectorem inter et axin contenta, aequalis est quadrato,
+in semi-radium vectorem ita positum, ut angulum 450, axin continentem, cum
+
+primo radio vectore efficiat, constructo.
+
+Est enim
+q? = ὲ a² Sin 2 φ -—- ὲ (1² Cos 2 (450- φ) = (hmo-992.
+
+ΤΙΙΕΟΒΕΜΛ XXX. In Lemniscatae totum axin si construas semi-circulum, radium vecto-
+
+rem datum usque ad circuli conferentiam prolonges, et ex intersectione perpen-
+
+diculum in axin demittaS, triangulum construxeriS, cujus area aequalis estq⁹.(vid.
+
+Fig. 10.).
+
+Hujus trianguli nempe basis et altitudo respective a Sin φ et α Cos φ aequales sunt, unde
+area fit
+

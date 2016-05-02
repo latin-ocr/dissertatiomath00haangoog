@@ -1,0 +1,43 @@
+ms DE ‘mmmm VAN BEPAALDE INTEGRALEN. 13
+
+Iu de vergelijkingen (VJ) en (Vm) werden de integi-alen, die B„ tot coefficieut hebben,
+bepaald door de formulen (n) en (p).
+
+Even als de vot-ige herleidingsformulen, die alle den faetor Sinpoe bezittm, kan men er ook
+‹lergelijke afleiden met de faetor Coopoe. Daartoe moet men de vergelijkingen (ε) met f¹ (ω) en
+(t) met f, (x) {gebruikem terwijl in dit laetate geval de B„ tot eoeffieient verkrijgt de integraal
+(m). Hier gelden wederom dergelijke opmerkingen als er straks ten opzichte der formulen (V)
+en (VI) werden gemaakt. Bij de hulpintegralen (ι) is voor p τε ηε de waarde sleehts een bij-
+mnder geval van elke der beide waarden voor p > ns en voor p < ns: dit maakt de be-
+· sehouwing veel eenvoudiger en van dergeliJLken nard als bij de vergelijki11gen (V). Ditzelfde heeft·
+echter geene plante bij de derde waarde van de integraal (ε), die zich niet laat terugbrengen
+tot eene der beide eerste waarden3 dit heeft dus ook hier ten gevolge, dat er meet aszonderlijke
+gevallen te besehouwen zijn, even als bij de formulen (VI). Wanneer men op dit alles let, ver·
+krijgt men aohtervolgens
+
+ 
+
+ 
+
+ 
+
+[ω f¹ (x) Cospae q ’τάων -Ξδ inpq. EA„ Sin nqs— = —Sinpq f¹ (q), [p>a⁸]‚ . (Ixa)
+=.-.. --ΞΑω 003 &qq-3 Sm 32an A Sin 1193- = ····· (ῙΧὸ)
+.---as
+a --ΞΑα †-Sinpq. EA „Sinnqs ==———A „÷—Sinpq. f,(q) .[.p. . .](1Xc)
+.-.. {Sua pqE A„ Sin nqs--Oos pq ᾗ 1A „Cos uqa, ἱ . . . (de)
+πε, {S mpq EA 8ἰηη9ε--ἀΣ1ηΑ Οοε((Μ·-- PM} ’τί p<a3-
+= ’ΞΒ mm· f, (9)—} Σ A 00⁸ {(n⁸— p) 9} [⁶²²5.ss “m‘'
+breuk
+= -Ἣξθοερ91ΣΑηοωπᾳε-Ι-ΞΣΑ Castus—PM} “N .-
+= -ξ Coqu {f (9)··-Ao} -Ι-ἒΣΪΑ 0⁰³ {Off-P) 9}’ Ι - (IXs)
+..--.. {Sinpq‘EJAn Sin η9ε--Αᾱ Cos 2ρ9-Ξθοερ9, ΣΑ ,ΗΟοεη9ε X , (¹X9)
+-π -ΞΑα †·· ZSt'npq. 1EA „Sinnqs—--EA„ Cos uns—pm} εἰ
+2d÷1 P<⁰⁸2
+== -ΞΑᾱ ἦ· {anpq·f1(Q)-32An0⁰⁸ [βω-μη), ἀπᾶῗζΙ· ⁶(1Xh)
+π π a ἅμ vta-1 δ geheel
+= {Aa ——- {Cos pq.E A„ Cos ¹19⁸ 4-— EA„ Cos [(Μ-Ρ) q}-
+π und-1
+
+-—- ῑΑι-ςσοειοᾳ {f (q›—A0}÷} -ΣΑ Cotum—m}
+

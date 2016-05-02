@@ -1,0 +1,40 @@
+—- 1⁰⁰·-
+
+140. CONSTRUCTIO. xlx, In semi-axin circulum construas, ex cujus puncto quovis Ω
+perpendiculum Ω R in axin demittas. Sumus
+
+ΟΩ2 = ω’ -l-y2 «τε- aV(:1:²-y²), ex form. (A).
+
+Porro est .
+OQ² = OR><0A =a . OR;
+unde
+011² ...Ξ ,τι-να ³
+ergo
+
+2oe²=0Q240R², 2y²=0Q²-OR²=-QR² ....(195)
+
+In Q R igitur semi-circulum ducamus, cujus cum radio axi parallelo intersectionis S ad R
+distantiam in RQ transponamu3‚ ex extremitate T axi parallelam ducamus, quae circulum, e
+curvae centro cum radio Ο Ω aequali ductum, in puncto quaesito intersecabit, cujus ordinata est
+RS --- RT , et igitur abscissa est
+
+0T=1f(0R² 41112) = V(y²÷.v²—y²) = cc. (vid. Εἰς. 20).
+
+Haec constructio eo casu aliquid praestare potest, quo pro valore dato radii vectoris, abscissam
+vel ordinatam puncti quaeramus.
+
+141. Denique monendum restat de iis generationis modis, qui, quamquam non ad de-
+lineationem apti, tamen una cum praecedentium nonnullis diversitatem generationis ostendunt,
+(le qua in introitu mentionem fecimus.
+
+Ex formula (Ε) conspicitur aequationem Lemniscatae in tangentibus centralibus coincidere
+cum aequatione Hyperbolae aequilaterae cum· variabili potentia (r² t 2 e).
+
+Ex Theoremate XIII sequitur, Lemniscatam locum esse geometricum verticis P trian-
+guli, cujus vertex F constanter in foco manet, lateraque ΡΩ et ΡΩ excentricitati et sompni
+aequalia sunt, dummodo verticis P motus infinite parvus locum habeat secundum circuli huic
+triangulo circumscripti radium GP. (vid. Fig. 6).
+
+Ex Theoremate LXXI Lemniscata gignitur ex alterius Lemniscatae· centri osculationis
+projectione in radium rectorem, quo casu ratio axes intererit ut 5 ‘ad 2.
+

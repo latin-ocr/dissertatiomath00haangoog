@@ -1,0 +1,44 @@
+'¹0 OVER EENIGE NIEUWE HERLEIDINGSFORMULEN
+
+de u door p vervangen ποι-(16 3 bij de herleidingen komen nu alleen de hulpintegralen (m) tot
+
+(x) νοοῖ, niet meer de (l), zoodat hier geene der integralen ondoorloopend worden. Hier komt
+evenwel het teeken van m——p ter spx-ake, en wel bij het gebruik der integralen (q) tot (t),
+niet meer bij dat der integralen (v) tot (ω). Ζοο lang p >ue blijft, is altijd‚ tot voor de grootste
+waarde vau n, n == a, de coeffieient p—ns positief, en heeft men dan sleehts de eerste waar-
+den der integralen (q) tot (t) noodig. Wordt juist p ετ ae, zoo geldt het vol-ige voor de
+geheele sommatie van n = 1 tot u == α- 1 , mear voor den laatsten term der sommatie, die
+vom· n = α. wordt p—ne gelijk nul; en men behoort dus voor dien term, de ἀοι-(1ο waarden
+vau genoemde integralen te gebruiken. Is eindelijk p <as , dau zal voor eene zekere waarde van
+n, η -- d, (die tuseehen 1 en a gelegen is, l <d<a)‚ nog p—da>0, maer voor de op·
+volgende wael-de van n, n --=· d -1- 1, integendeel p—(d 4- 1)ε<0 wezen: en nu behoort men
+voor n τ- 1 tot n = d, bij de sommatie de eerste waarden der hulpintegtalen te gebruiken
+voor n == d -Ι- 1 tot n = a integendeel de tweede wael-den dier zelfde integralen. Eu him-bij
+ken nog eene nitzondering plante hebben, wanneer namelijk juiet p = da is, Dan moet men de
+sommatie in drie aszonderlijke gedeelten splitsen; de eerste loopt van n -- 1 tot n = d—-l,
+met de eerste wazu-den der overeenkometige integralem daarop volgt eeu losse term voor n = d ‚
+ποθι-νοοῖ de laatste waarden dier integralen gelden3 eindelijk volgt nu hetgeen er van de som-
+matie nog overblijft, namelijk voor η == (1-4- 1 tot n = a, en hierbij moet men de tweede
+waarden der hulpintegralen invoeren. In deze beide laatste gevallen is onze d juist het grootste
+
+geheele getal, dat begrepen is in ἒς men sehrijve dus naar gewoonte ἀ-εεζζὲς mear het ondet-
+
+scheid tussehen beide toestanden ligt dearin, dat Ξ zelf of eene breuk, of een geheel getal is.
+
+In plaats van dp<s<(d† 1) p kan men dus de notatie gebruiken d --- ὁ {stt-enh en in
+plaats van dp ==a<(d÷ 1) p de volgende εῖτ-ἇς, qeh6023 waarbij men er op dieat te letteu, dat
+
+‹le woorden break en yeheel niet op d slaan, mear op de grootheideg.
+
+Op deze wijze is het nu mogelijk geworden, om bij de eet-ste soort van algemeene verge-
+iijkingen, die uit de formulen (G) tot (K) zullen moeten afgeleid worden, tot zekere‚ ware uit-
+komsten te geraken, en die uitkomsten ook op eenvoudige, lieht te begrijpen, wijze voor te
+stellen. En hiel-in ligt, men zal het later kunnen opmerken‚ het eigenaardige karakter van deze
+eplitsing der opvolgende herleidingen‚ wael-over vroeger werd gesproken. Wanneer toeh eenmaal
+de hier bedoelde bewerking en herleiding is afgeloopen, dan verkrijgt men wel onderseheidene
+waarden voor dezelfde integraal, naal-mate van de betrekkelijke waarden van vel-schillende stand·
+vestigem mear dan is daerentegen ook de weg gebaand tot de volgende bmnerking, de invoering
+namelijk van f:⁸ (ω) of van f⁴ (x).
+
+7. Gebruikt men de formule (q) met s, (ω) en (r) met f² (ατ), zoo komt er
+

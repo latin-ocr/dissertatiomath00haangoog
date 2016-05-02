@@ -1,0 +1,50 @@
+secundum circulum in curvae centro tangat, qui circulus curram alicubi in P,
+secabit, per quam intersectionem ct punctum datum quartum ducas circulum, ita
+
+ut primum in puncto dato tangat: hic erit circulus osculationis. (vid. Fig. 9.).
+
+Hujus Theorematis demonstratio ex Theoi-emate XCIV petenda est.
+
+Si nempe duos circulos, per duo illa puncta eadem, P„ quae ad contactum secundi ordinis
+pertinent, ducas, quorum primi (quem circulum osculationis assumamus) cum curva puncta com-
+munia sint punctum intersectionis in contactu P„ et P⁴ ε secundus vero puncta P2 et P:² cum
+curva communia habeat; per P„- P, et Ο, item per P„ P„ et 0 circulos ducas3 hi secun-
+dum Th eorema citatum sese in curvae centro tangent. Hinc necessario rursus sequitur ex
+
+hac conditione in Theoremate XXV satisfacta, primum circulum, qui per P, transit, circulum
+osculationis esse.
+
+45. SOLUTIO 5. llaec sequitur ex illis, quae n‘·'. 115 exponemuS, (cs. η’. 54.), ita ut se· ι
+
+cundum methodum clar. Arm. Tnsssox (cs. Gauium-'s Archiv, Tom. Vleag. 1515.) habeamus
+
+THEOREM XXVI· Secundum ca, quac in Theoremate XV exposuimus, si normalem
+construxissemuS‚ in lineis R¹ R„ R² R„ partes sumamus R, 11„ R² R„ quae
+respective tertiae sint proportionales ad θ ct R¹ R„ eet-R² 11³. Perpendiculorum
+ex punctis R„ Rs, in respectivos radios erectorum intersectio sit R„ e qua in
+normalem PR, perpendiculum Ra R, demittaS, tunc radius osculationis PR, tertia
+
+erit proportionalis ad PR,- ct PR3. (vid. Fig. 7 .).
+
+46. Eliminatum r inter aequationes (47), habemus
+
+ 
+
+ 
+
+4 '¹' «t '¹' 4 ⁴
+5²†n²=a ξἸ-’ἰν , ξ2-ηιτ-οα9ἒζν
+unde
+ξ, ÷„2)2=[⁰⁴÷5 {(5²-„²)9a2-50⁴}]² Ξ {27(=².-n²).-8a²}²a² (Μ)
+
+81 {(5²—n²)9a²—-5a⁴} W -’
+quae est Evolulao aequatio pro coordinatis rectangularibus: sin utamur coordinatorum polarium
+ystemate (B), ea fit ο
+
+729 νῦ Cos 2φ- 243 ιι2 ν* (1 -1- 5 Cos² 2 φ) -Ι- 452 α* r² Cos 2 ‹p-64a0 πο ...... (55)
+
+Ponendo
+
+2 a : 5 -- b .................... (156)
+fiunt hae aequationes
+

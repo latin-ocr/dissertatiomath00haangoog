@@ -1,0 +1,57 @@
+ 
+
+ 
+
+ 
+
+ 
+
+EEN AANHANGSEL ΤΟΤ DE TAFELS VAN ONBEPAALDE INTEGRALEN. 7
+derhalve
+sAgaoe÷1=(2„-1}(1-k2) k2231538oe4Q—1N2‘k2fl s A;2{1*(2⁷²'‘3) 333³ · ·Β7)
+
+4. In alle vorige herleidingsformulen zijn de. n en p volkomen onbepaald
+gebleven3 men kan ze derhalve ook negatief nemen. Beginnen wij met de n,
+waardoor de Δ uit den noemer in den teller verschijnt. In alle herleidingsfor-
+mulen (A) vervange men daartoe n door ——nt in de overeenkomstige formulen
+(B) daarentegen, die omgekeerd moeten worden, stelle men 2—-n voor n in de
+plaat83 op deze wijze zal er komen
+
+1
+
+ 
+
+J8in1’ae. A2¹⁸···1doe =
+
+ 
+
+cosx.⁸inp-32.A2n÷1÷[(p-2)÷(p÷2n-2)k2]sanp-2oe.A2n-1dae-
+
+ 
+
+ 
+
+ 
+
+ 
+
+(p÷2n-1)k2
+·- (Ρ - 3) [einp-422. &zu-1 dx .................. (Ag)
+=p÷2ln-l t k2cosoe.sinv÷1oe.A222-³÷ [(4n÷p-4)-(p÷2n-2)k⁹]ssire1⁹oe·[RQ-³112-
+—(2n-3)(1—k2)ssinpa·.A2n-⁵dx} .............. (Bg)
+scm? 2·A2”“¹tloe = (ffl- 2721- 1 ) μ 3 sinx.cosr-³oe.A2n÷¹—[(p-2)-(2²÷21-2)2lc²] s cosp-222.A²¹⁸·1dx·l·
+-Ι- (p -—-3) (1 -k2)sco⁸P-4oe. Nan-1 dx} .............. (A9)
+= p ἦ· {bl ἲ k2⁸inae.eosp÷1x. Assfl*3÷[(4n÷p-4)-(n-1)2k2]scoer.A2¹⁸··3dx —
+—(2n-3)-(1—k2)scospoe.Assfl-5doez .............. (30)
+stanffpff·ss⁹”'¹doe= (p-lstz-ffl) sZZZZoe A²⁹'÷¹-[(P·-2)2-(2n4p-2)k2]slanqv·²oe.Az'ffldoe—
+
+ 
+
+ 
+
+ 
+
+— (p — 3) [taust-4³2. A2¹⁸·4 dm ................. (Alo)
+
+ 
+

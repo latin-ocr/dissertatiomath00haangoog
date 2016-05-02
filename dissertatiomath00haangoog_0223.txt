@@ -1,0 +1,59 @@
+42 OVEB, mmmm MEUWE HERLEIDINGSFORMULEN
+
+18. Wanneer men nu (16 volgende integralen (15), (16) 611 (17) gebruikt, worden de uit·
+komsten wederom veel eenvoudiger, in zoo verre nameliJk hier al weder ieder onderscheid weg-
+valt tusschen de betrekkelijke waarden van ct en ε. Daartegen stant evenwel over, dat de eerste
+sommatie ten opzicbte van n niet konde nitgevoerd worden, en dat derhalve deze tweede sommatie
+ten opzichto van m moet genomen worden.
+
+wat vervolgens betreft den lossen term, dio tot coefficient heeft D„ en tot tweeden factor
+
+de integraal Γ (por) dae: dezo werdt bij het gebruik van de formule (15) gegeven door (16 vroo-
+
+o
+gere integraal (1) 3 maur ten aanzien van de beide andere integrqlen (16) en (17) worden dt·-
+overeenkomstige integralen voor die losse tormen niet gevonden: en dit ook terecht, want zij
+worden toch ieder op zichzelve oneindig groot, zoo als dit uit de integranl (5) reeds volgt‚ en
+nog duidelijker bliJkt uit het theorema (IV), dat vervangen werd door (IVa)‚ waaruit die inte-
+graal (5) lton voortspruiten. Men komt evenwel gemakkelijk aan dit bezwaar te gemoet‚ door
+
+in plaats van f⁴ (cc) te gebruiken de andere f⁴ (x)-D0 = Σῖ Dm Cos mix: daardoor toch vervalt de
+
+losse term, en daarmede het geheele bezwnar, dat zich hier voordoet. Men verkrijgt nu
+
+ 
+
+· [²0 1⁶3(oe x) 1- -Ἷ--Ῐὲἶῖἶωψν q ἵκω = D⁰31⁹w¹ [Sin nqs.0i(nqs)-—Ooan⁸.Si(nq⁸)] -Ι-
+
+4-212 Sinmtffr -¹[S2·²1nq⁸- {Sin (·ns÷mt>q]—Sz·[<ne-mt)q]}——002uqa {oium-mamwinus-mennl·—
+
+-ω--Σῡηι σοεηιιᾳΣν -1[002nq⁸-{ siuns-t—moq]&imm-mosa]1÷Si2mq³ [mmmmm]- -01[(n⁸-mt)‹1]}]· (xxm
+
+ 
+
+ 
+
+ΓΠ (x)·-Do] 1- 2,, 152}ss qs—dfoe == Σ1 Dm [00⁸ mtq. Ci(mtq) -Ι- Sin mtq.Si(mtq)] †
+
+† Σ Dmsinmtq {2- [sinnqs- {0i[(m÷mz>q]- amm—mm] 1--σοε πριῑεεαπεψωῡᾳ]-εεαπει-ωηωῃ]ψ
+
+÷2⁶1Dm00⁸ ’πῑφΣῗνἺΟοε nq‹*³·{ Ci[(¹²⁸÷mt)9] -Ι- 02'[(¹²⁸-mt)q]}†Sin rm·{Si[(⁹2⁸÷m1).‹1]÷Si[(⁹²⁸-mt)9]}]; -(XX111)
+
+(1—r²)0033x oedx
+
+s [ἢ (6)-Βο] 1-2, Cossa-pfl q2—x² =-- rssiiDm[C03mtq.Ci(mtq)-1- Sin mtq.Si(m!q)] -1-
+0
+
+ 
+
+ 
+
+ 
+
+4-{0-1-r2 >21Dm8in mzq.}*rn-1[sinnqs.{o2·[(22⁸÷mc)q]-02·[(ns-mc)q] }-00³ n42.[si[(m÷mc)q]-si[(m-mt)q] }]÷
+
+÷}(1÷r2)÷nmoosmtq.23⁰rn—1[Cosnqs.{0i[(ns÷mt)q]÷0i[(m-mt)q]}÷Sinnqs.{Si[(ns÷-mt)q]÷Si[(ns-mt)q]}].(XXIV]
+
+En hiet-mede zijn wij aan het einde gekomen van het stelsel algemeene herleidingsformulen,
+dat wij wenschten af te leiden.
+

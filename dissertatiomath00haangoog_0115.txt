@@ -1,0 +1,18 @@
+—- 1⁰² --
+
+143. Postremo loco monendum est de modo generationis, quem promotor spectatissimus,
+vir clar. G. J. Vanum, ex theoria sua generali linearum Lemm'soaIarum primae ordinis deduxit,
+mihique communicare voluit.
+
+Construas Parabolam, cujus parameter sit a, porro Hj’perbolas aequilateraS, quarum centra
+in Parabolae vertice sita sint, et semi-axes p cum Parabolae axi coincident3 ex quarum singu·
+larum vertice perpendiculi in axin ducti, et usque ad Parabolam sumti, valor erit y = γαρ ,
+cum quo e centro Hyperbolae circulum ducaS, cujus cum posteriori curva quatuor intersectio-
+nes‚ puncta erunt Lemniscatae; pro quibus autem valet tum aequatio Hyperbolae aequilaterae
+
+115² —— y² =p² ‚ .................... (199)
+tum circuli
+,τ’ 4- ψ --- ap ..................... (200)
+unde eliminatione quantitatis p
+(ν ÷=J²)² -— a²p² =- 0² (ενι-ψ) - ‹⁴›
+

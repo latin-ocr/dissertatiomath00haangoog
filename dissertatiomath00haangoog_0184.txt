@@ -1,0 +1,48 @@
+131J DE THEOROE. VAN BEPAALDE INTEGRALEN. 5
+
+Is eenmaal aaa die voorwaarden voldaan, dan komt alles hier neder op het bepalen der
+
+integralem
+squam„ . . (ο) Γφμβῑηαωᾱω, . . . (α) Γφμωοωωᾱω.. . . (0)
+
+Ρ Ρ . p
+
+Zoodra evenwel deze inte-graleu bekend zijn, —- en met het oog daarop zal men de sanctie φ (s)
+
+en de greuzen vau het integreeren p en q moe-teu kiezen, -— dan kan men deze methode nog
+verder uitbreiden.
+
+2. zij toch eene andere functio, die kan worden voorgesteld door eene reeks vau sinuseen
+
+of cosinussen der opvolgende veelvouden van het produkt τω , dan kau men m voor het orde-
+getal aannemen ten opziohte waatvan men sommeem en zoo wurdt dan die functio
+
+f,(x) = {ensium ...... (s) mx) == D0-1->13m001mtae . . . . (9)
+
+En nu heeft meu in de algemeene stellingen (A) en (Β) de φ (ω) slechts te vervangen door
+q>(.‘2=)f³ (ω) of door φωνῇ, (ω), om tot de uitbreiding der methodo te gernken, die men op het oog
+had. Want de produkten der sinussen en cosinussen‚ die hierbij outzman, en ongenschijnlijk tot
+andere eindintegralen zouden aanleiding geven dan de (ο), (ά) en (e). kunnen gemakkelijk worden
+herleid, zoodanig dat er juist de vermelde sommen weder te voorschijn komen. Daartoe heeft
+men slechts noodig de bekende goniometrisohe formulen
+
+sin ax. sin bx -- ἐ [σω. μα- b) x} - σοι ((«ι -ι- Μ] ........ (ιι)
+sin aa. σω bx ..-- ὲβεη [(α-ι-ῡ) ω) -ι-εῑημα-ῡμῃ ε-Ξ-[εεη ((α-ι-ῡ) ω) -εεηζω-αμῃ, . (ι)
+
+emmam ἓὲμωμαψωω] -1-Go⁸{(a—-b)oe}] . . . . . . . . (ι)
+
+Dientengevolge leveren tooh de vergelijkingen (A) en (B) do vier volgende
+
+J ἶ» (anf. (eof, (w) απ π ξΑηΣῖοη, s⁹wsx>sznmscnm ax =
+Ρ Ρ
+
+..τὲΣῖΑηΣζοω [ᾳφῳωηοωμω-ηιιμὶ- 00s{‹m÷mt)x}]‚ · · ‹c›
+
+ρ
+[⁹0³ (x) f, (ἠήρ) dx = υοΣῖΔηΓφ (ω) εἰη mam 4- ξᾼηξυ.. Γφ (ω) sin m. σω masam .,-.,
+v . ρ Ρ
+= ΒοΣῨΔηΙΊᾳ (2·)Sin namt † ξιξ-ΣΤ QZ? Dmsqq» (ω) ‹1oe [Sin “na-knuth} ÷Sin ((²2⁸- nit) ar} ],(D)
+ρ ρ
+
+1*
+

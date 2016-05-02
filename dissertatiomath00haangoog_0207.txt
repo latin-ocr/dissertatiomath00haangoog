@@ -1,0 +1,65 @@
+26 OVEB. EENIGE NIEU WE HEBLEIDINGSFORMULEN
+
+Uit het zamenvallen der wuarden voor meet dan een der verschillende gevallen, blijkt het
+genoegzaam, dat onze herleidingsintegraal tot de ποθι· eenvoudige van deze soort behoort, en toch
+worden reeds in de beide luat-te gevallen (X1110) en (de) do uitkomsten zeer zamengesteld ς
+men ziet duarenboven gemakkelijk in, dat voor grootere waarden van ct, er langzamerhand nog
+meet termen in het tweede lid der vergeliJking zallen verschijnen. In het vervolg zallen vij
+dns alleen de herleidingsformulen nagaan, zoolaug υἰέ 23 blijft.
+
+11. Graan wij over tot de integralen (7) en (70), en letten wij op de voorsohriften van
+ΝΟ. 2, zoo verkrijgen wij.
+
+l-——r2 πάι·
+ssd& >1-2r00nae-1-r‘ ρ’* —x² Ξ
+
+π 1
+πῖ-ῖῖω-ῳῖῆῌῆ(
+
+ 
+
+(1-r2 ) ÷rCos qe—-r ² } {17 O„ Cos ηις 4- r(Sin qs—r. Ο) {1¹ QSin atq] --.
+
+π
+
+-—- W [r Sin 98.ΣΟη8ἰηπί9---1-(1 -— 2r Cos qs -ξ- ν’) ΣΪΟη Cosntq] «τ-
+
+“⁹²[1—2;{Z}:÷„2f⁸(q)--{f⁴(q)--00}], [ct<s], ........... (ΧΠα)
+
+π
+
+l—2r008 (μὴ-ν’
+
+ 
+
+[dist-QG& 9⁸4¹· ² )Σ;Ο,,Οοεηι9-1-ν8ἰπ qs. Σιῦηδίπ περῆ-ΞΟοΟ-τ· ² )(r— Cos 93)] ==
+
+π
+
+π1-2νθοε ςε-Ι-νῖ
+
+ 
+
+²[rSin qa..{l'c„Sin ηις-ὲ( 1-2νθοε ρει-Η· ² )Σ1ιεοηο08 ”sq-{⁵04⁹ ² 00⁸ φ’·ὲμ Ἠ ² )²·}] =
+
+a π [l— 2:222 -!- φ, s, (q) - ἐ- {f⁴ (q) - c„ -ι- να), [οι = ε] .......... (Χῑνῡ)
+
+π
+
+ἕπῃ [-2 -(1—2r003qs÷r²){kc„000ntq ÷rSinqm2kcz2Sinntq÷
+
+÷ {——} ‘1—r2) -Ι- r² Cos 293- r³ Cosqs}k{'10„ „Cosntq†r²(Sin eqae-—rsin 9401οΣΙηῦ Sinntq] -
+
+π
+
+=1-2rCosqs-}-² r
+
+ 
+
+[——( 1- 22· Cos qs—o· ² >Remos πέρ -Ι-νδίη 93.1ΣΟ,, Sin atq—(r Cos qs—2P² 0⁰⁸² q⁸ ‘¹'
+
+-Ι- r⁸ Cosqs)k{0„ „Ooomq -ι- (τ’ Sin 2qs--r³ Sinzqa—rSv'n q8)20n3m”1¹9] ἓ·
+
+rSt'n qe
+·- [W
+

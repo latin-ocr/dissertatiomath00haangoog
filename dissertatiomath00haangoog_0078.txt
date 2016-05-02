@@ -1,0 +1,62 @@
+ 
+
+-- 05..
+
+alge'briques dont les racines ont entre 'elles un rapport donne; in qua auctor sibi
+fundamentum sumit relationem inter radios rectores arcuum 2· - plinium
+
+ε 4r⁴ (1 -r⁴)²
+<1 ÷ νη*
+
+et ex formationis natura deducit aequationum decompositionem in factores rationaleS, quorum
+pe quaestio solvi potest. Quoniam vero haee ,tum cum functionum, tum cum numerorum theo·
+ria arctius cohaereant, longiora autem expositu forent, nec ad argumentum pertinere proprie dici
+
+possint, me hic persistere ne quis aegre ferat.
+89. Quando vero Quadrantem integrum dividere volumuS, ulterius progredi licet, ante-
+
+quam in talium aequatiouum altioris gradus resolutionem incidamus, quod expositio illustrabit,
+si transeamus ad divisionem Lemniscatae Quadrantis ex commemoratis petendam, et nobis solu-
+
+tum ponflmus
+
+τι*
+
+ΡΒΟΒῙιΕΙᾹ X· Lemniscatae Quadrans bifariam secetur .
+
+SOLUTIO 1 . Hoc obtinebit, si alicujus arcus radius vector arcus inversi radio vectori
+aequalis sit, unde ergo ambo arcus Quadrantis dimidio aequales erunt. Habemus igitur ex form.
+(89), hic etiam simplicitatis gratia semi-axin a unitatem ponendo ,
+
+1—r2
+
+1÷r²'
+
+‘lbi signi duplicis inferius omittendum est ne r imaginarium evadat. Si igitur radium vectorem
+Quadrantem bisecantem per α denotemus, erit
+
+α == V(1s2—1). . . ............... (134)
+
+d SOLUTIO 2. Idem inveniamus necesse est ex form. (96), ubi, pro 1·² -Ξ a, r --- α esse
+chet ‚ id est
+
+unde r⁴÷2r²-1=o , r²=--1÷1s2, (155)
+
+r=
+
+ 
+
+Ἥ =l , unde ιιι-(α’ -Ι-Ξοιῖ---η2 ‚
+
+edem ιο aequatio (155).
+
+SOLUTIO 3. Idem denique ex form. (94) prodire debet, ubi, pro r² --=- 0, r --- α esso
+
+ffiQttur, ergo
+1 — 2 α’ -- οι4
+
+0.-.=.-.-——----, vel 0=a⁴÷2oe²—-l,
+Ῑ-Ιι-Ξοτῖ---ικι ’
+
+adem ac aequatio (155).
+

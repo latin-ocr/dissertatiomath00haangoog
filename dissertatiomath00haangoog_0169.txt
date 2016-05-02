@@ -1,0 +1,55 @@
+42 OVER EENIGE GEVALLEN Bu m: 'ruEORlE VAN ONSTADIGE Funcrliin.
+
+het hoofd mag zien, zoo als onder anderen door RAABE in het straks aan-
+gehaalde stuk is gedaan. Hier toch werdt eene reeks in eene geslotene uit-
+drukking getransformeerd, en het komt er dus op aan, om te weten of de
+reeks oneindig, en in dat geval, of zij eonvergent zij: immerS, als de reeks
+oneindig en divergent tevens is, zoo wordt gezegde transformatie volstrekt
+onwettig 3 is de reeks daerentegen eindig, zqo mag men finijd daartoe over-
+gaan. In het onderhavige geva! heeft men dus daarop te leuen, of r kleiner
+dan de eenheid zij3 want alsdan is de reeks altijd convergent, en de ge-
+volgtrekking is dus geoorloofd. Maar is r gelijk of grooter dan een, zoo
+geldt dit besluit niet langor, tenzij de reeks eindig zij, dat is c eene eindige
+waarde hebbe3 want was daarbij c oneindig, en dus de reeks eene oneindige,
+zoo was zij divergent‚ althans niet meer eonvergerende. Het geval van r --- 1
+en e eindIg willen wij dus het eerst beschouwen.
+
+—
+
+Ten eersle is alsdan onder het integraalteeken de factor νδ na te gaen:
+
+deze wordt ¹3 dus 1. Vervolgens heeft men in het⁸ tweede lid den factor
+
+ο
+ῙΙῖᾩῗΞ en deze werdt ἓ voor r =13 men moet dus telier en noemer ten
+opzigte van r differentieren, en ‹laarna wederom r=1 stellen: deze bewer-
+
+king geest hier:
+
+ 
+
+1 —- ,200ae —— 2 c a π r2⁰⁰⁷⁸'··¹
+--. = ———-——- *- = (Π’(θ-ι)2απ == G·
+
+1 .- reaw‘ - 2 a π ,απ-ι
+
+ 
+
+ 
+
+Men heeft derhalve‚ -— daar de grenzen voor de limie} nul van §wordent
+0 en Qanc, en r gelijk een is ondersteld-:
+
+s2antp[Sin.aa·,Coe.13.2-)dx = 125m.6.c[‹‡ (Sin.a‹3‚cos.ss‹3) -{— φ(8ἰη.2αδ, θοε.2βδ) 4—
+
+o †‹p(sin.2anoed‚cos.2ans36)]
+
+ε c Lim. δ [φ(8ἰη.αὸ,οὀε.βδ) †q›(Sin.2 adssosAEffl) ÷...÷‹p('Sin.2ana (260⁸. Ξαπβδ)];
+
+of wanneer men het tweede lid dezer vergelijking volgens de grondformule
+(Al) tot eene bepaalde integraal herleidt, waarbij dan even goed de grenzen
+0 en 2an kunnen worden gesteld in plaats van δ en 2an÷6- en dit is
+werkelijk geoorloosd, wanneer ten minste φ (Sin. acc, Cos,ssoe) voor de grens
+nul niet oneindig wurdt, welke voorwaarde reeds in de integraal van het
+eerste lid ligt opgesloten —- ook de vergelijking:
+

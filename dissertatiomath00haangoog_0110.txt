@@ -1,0 +1,59 @@
+*97*
+
+partem semi-axi aequalem abscindas3 supra hanc lineam, a -Ι- a C os 2 q· aequalem, semi-circulum
+describas, qui in perpendiculo, e centro curvae in radium rectorem erecto, inde a centro partein
+determinat, quae est radius vector, r = tl (a . a Cos 2 φ) = a ι] Cos 2 φ, ad angulum φ pertinens,
+(vid. Fig. 16).
+
+126. CONSTRUGTIO V. Ex eadem aequatione deducta.
+
+Iu semi-axin circulum construas ‘et per curvae centrum duos radios rectores ducas ab utraque
+axis parte cum eo eundem angulum φ efficienteS, circulumque in punctis Z, Z' secanteS.
+Arcum ZL sumas arcui ΖΑ aequalem, distantiam OL =a Cosa φ in axin demittas in M, e
+quo perpendiculum in axin erigas, Hujus cum circulo intersectionis ad curvae centrum distan-
+tiam in radios vectores transponendo, puncta curvae quatuor invenies. (vid. Fig. 17). ⁹
+
+127. CONSTRUGTIO vl. Quae ex eadem aequatione sequens‚adoct. Vnum-mxx, in Diss.
+laud., pag. 19, proponitur.
+
+Ε foco c'um excentricitati semi-circulum describas, et e centro in axin perpendiculum
+erigas, in quo valorem quemvis r sumas, cum cujus extremitatis ,ad verticem distantia e centro
+curvae circuli arcum ducas, cujus cum priori semi-circulo intersectionem centro jungaS‚ et in
+hanc lineam valorem r primitive sumtum transducas. (vid. Fig. 18).
+
+128. CONSTRUOTIO VII. Quam aequatio (E) obfert. In tangentium centralium altera
+
+partem sumas ΟΜ, focorum distantiae aequalem: in altera partem OL, radio rectori cuivis “
+
+aequalem. In rectam ML ex L erecti perpendiculi cum prima tangenti centn-ali intersectionis
+τ’
+
+ad centrum distantia ΟΝ erit {e’
+
+gulum rectangulum‚ cujus hypothenusa sit r, et area ὲ Ο N ², cujus altitudo p igitur. erit tertia
+
+proportionalis ad r et ΟΝ ; in Ο L' ergo semi-circulum describas, etcum ΟΝ ex Ο alterum circuli
+arcum ducas, e cujus intersectione cum primo perpendiculum in OM demittaS‚ cujus pedis R
+
+ΟΝ2
+
+ergo Ο Ν ² erit x y aequale. Restat igitur ut construamus trian-
+
+ 
+
+ad centrum distantiam, p = aequalem, in prolongatam Ο Μ transponas, et ex hujus fine
+
+r
+S alteri tangenti centrali parallelam ducas. Hujus cum primo circulo intersectionis distantiae ad
+Ο et L coordinatae ω et y in tangentibus centralibus sunt. (vid. Fig. 19).
+
+129. CONSTRUGTIO VIII. Ex aequatione (F) deducta. In tangenti centrali inde a centro
+partem sumaS, focorum distantiae aequalem, e cujus extremitate perpendiculum demittas in
+quemcunque radium vectorem, per centrum ductum. Inde a perpendiculi pede in radii vectoris
+prolongatione partem sumas perpendiculo ipsi aequalem3 et in lineam inde a centro usque ad
+hujus partis extremitatem semi-circulum ducaS, cujus intersectionis cum perpendiculo comme-
+morato‘ ad ejus pedem distantia, V (2 e Sin φ . 9. e Cos φ) = V (2 θ’ δίη 2 φ) aequalis, erit
+valor ipsius r. (rid.' Fig. 19).
+
+15
+
